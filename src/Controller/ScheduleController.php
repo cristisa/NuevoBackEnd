@@ -12,7 +12,7 @@ class ScheduleController extends AbstractController
     public function index(): Response
     {
         return $this->render('schedule/index.html.twig', [
-            'controller_name' => 'ScheduleController',
+            'controller_name' => 'ScheduleController Hola',
         ]);
     }
 }
