@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@api-platform/admin": "^3.4.3"
+  }
+}
